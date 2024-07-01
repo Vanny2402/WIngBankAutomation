@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.11.9 on win32)" generated="20240430 22:59:34.558" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\sunsa\.vscode\extensions\robocorp.robotframework-lsp-1.12.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<msg timestamp="20240430 22:59:36.751" level="INFO">PRINT HER :  d:\WORK\Automation\wingbank-mobile-automate\env BASE DIR:  d:\WORK\Automation\wingbank-mobile-automate</msg>
+<status status="PASS" starttime="20240430 22:59:34.593" endtime="20240430 22:59:36.751"/>
+</kw>
+<status status="PASS" starttime="20240430 22:59:34.593" endtime="20240430 22:59:36.751"/>
+</test>
+<status status="PASS" starttime="20240430 22:59:34.558" endtime="20240430 22:59:36.752"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "wingbank-mobile"
+version = "0.1.0"
+description = ""
+authors = ["Testing"]
+license = "Testing"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+robotframework-appiumlibrary = "^2.0.0"
+rpaframework = "^23.1.0"
+python-dotenv = "^1.0.0"
+pure-python-adb = "^0.3.0.dev0"
+rpa-framework = "^0.0.0.0.1"a
+robotframework-datadriver = {extras = ["xls"], version = "^1.7.0"}
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
