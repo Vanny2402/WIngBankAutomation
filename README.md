@@ -49,3 +49,6 @@
 * Select Interpreter: Hold press: Shift + Ctrl + P => C:\Users\\[ User Name ]\AppData\Local\pypoetry\Cache\virtualenvs\wingbank-mobile-4AmKvypC-py3.11\Scripts\python.exe
 * Type: poetry run [testcase name]
 * OR:  D:\> [path of project] > robot -d results testcase.robot
+
+
+New test
